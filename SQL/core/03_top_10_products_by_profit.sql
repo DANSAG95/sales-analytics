@@ -1,5 +1,7 @@
 WITH joined_tables AS (
     SELECT
+        p.product_name,
+        p.product_key,
         s.quantity,
         s.quantity * p.unit_price_usd AS revenue,
         s.quantity * p.unit_cost_usd AS cost
@@ -9,6 +11,7 @@ WITH joined_tables AS (
 )
 
 SELECT
+    product_name,
     SUM(quantity) AS total_units_sold,
     SUM(revenue) AS total_revenue,
     SUM(cost) AS total_cost,
@@ -17,4 +20,7 @@ SELECT
         SUM(revenue - cost) / SUM(revenue) * 100,
         2
     ) AS profit_margin
-FROM joined_tables;
+FROM joined_tables
+GROUP BY product_name, product_key
+ORDER BY total_profit DESC
+LIMIT 10;
