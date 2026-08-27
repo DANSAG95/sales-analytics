@@ -2,6 +2,8 @@
 
 Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
 
+![Sales Overview Dashboard](./Images/sales_overview.png)
+
 ## Project Overview
 
 This project analyses the sales performance of a technology and electronics retailer operating across 8 countries, with 66 physical stores and an online sales channel.
@@ -84,6 +86,8 @@ The Power BI dashboard consists of 4 interactive report pages, each focused on a
 
 ### 01 — Sales Overview
 
+![Sales Overview Dashboard](./Images/sales_overview.png)
+
 Provides a view of overall business performance through:
 
 * **Total Revenue**
@@ -98,6 +102,8 @@ A Year slicer allows users to explore performance across different periods, with
 
 ### 02 — Product & Category Performance
 
+![Product & Category Performance Dashboard](./Images/product_category_performance.png)
+
 Focuses on product and category performance through:
 
 * **Top 10 Products by Revenue**
@@ -108,6 +114,8 @@ Focuses on product and category performance through:
 The page can be filtered by **Year, Country, and Category** to investigate product performance within different business contexts.
 
 ### 03 — Customer Performance
+
+![Customer Performance Dashboard](./Images/customer_performance.png)
 
 Focuses on customer value and profitability through:
 
@@ -120,6 +128,8 @@ Focuses on customer value and profitability through:
 The customer count is based on customers with recorded sales.
 
 ### 04 — Store Performance
+
+![Store Performance Dashboard](./Images/store_performance.png)
 
 Examines the relationship between store size and commercial performance through:
 
