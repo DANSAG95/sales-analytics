@@ -1,3 +1,7 @@
+![Sales Analysis Banner](./Images/sales_overview.png)
+
+# Sales Analysis
+
 # Sales Analysis
 
 Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
