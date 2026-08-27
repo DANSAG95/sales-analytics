@@ -1,5 +1,3 @@
-![Sales Analysis Banner](./Images/sales_overview.png)
-
 # Sales Analysis
 
 # Sales Analysis
