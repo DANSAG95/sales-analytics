@@ -4,8 +4,6 @@
 
 Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
 
-![Sales Overview Dashboard](./Images/sales_overview.png)
-
 ## Project Overview
 
 This project analyses the sales performance of a technology and electronics retailer operating across 8 countries, with 66 physical stores and an online sales channel.
