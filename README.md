@@ -4,9 +4,9 @@
 
 This project analyses the sales performance of a technology and electronics retailer operating across 8 countries, with 66 physical stores with an online sales channel.
 
-The analysis combines an analysis workflow using **PostgreSQL and Power BI**, from data preparation and SQL analysis to dashboard development and business recommendations.
+The analysis combines PostgreSQL and Power BI with the workflow going from data preparation and SQL analysis to dashboard development and business recommendations.
 
-The goal is highligh the main drivers of revenue and profitability while demonstrating how business performance can vary depending on **country, product, category, customer, sales channel, and store size**.
+The goal is highligh the main drivers of revenue and profitability while showing how business performance can vary depending on country, product, category, customer, sales channel, and store size.
 
 ## Business Questions:
 
