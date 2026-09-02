@@ -6,7 +6,7 @@ This project analyses the sales performance of a technology and electronics reta
 
 The analysis combines SQL and Power BI to evaluate and identify the products, categories, markets, customers, and stores with the biggest impact on revenue and profitability.
 
-## Business Questions
+## Business Questions:
 
 ### Overall Performance
 
