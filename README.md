@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyses the sales performance of a technology and electronics retailer operating across 8 countries, with 66 physical stores and an online sales channel.
+This project analyses the sales performance of a technology and electronics retailer operating across 8 countries, with 66 physical stores with an online sales channel.
 
-The analysis combines SQL and Power BI to evaluate business performance and identify the products, categories, markets, customers, and stores that have the biggest impact on revenue and profitability.
+The analysis combines SQL and Power BI to evaluate and identify the products, categories, markets, customers, and stores with the biggest impact on revenue and profitability.
 
 ## Business Questions
 
