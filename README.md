@@ -4,7 +4,7 @@ This project analyses the sales performance of a technology and electronics reta
 
 The analysis combines PostgreSQL and Power BI with the workflow going from data preparation and SQL analysis to dashboard development and business recommendations.
 
-The goal is highligh the main drivers of revenue and profitability while showing how business performance can vary depending on country, product, category, customer, sales channel, and store size.
+The goal is highlight the main drivers of revenue and profitability while showing how business performance can vary depending on country, product, category, customer, sales channel, and store size.
 
 ## Business Questions:
 
