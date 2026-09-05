@@ -1,7 +1,5 @@
 # Sales Analysis
 
-## Project Overview
-
 This project analyses the sales performance of a technology and electronics retailer operating across 8 countries, with 66 physical stores with an online sales channel.
 
 The analysis combines PostgreSQL and Power BI with the workflow going from data preparation and SQL analysis to dashboard development and business recommendations.
